@@ -1,4 +1,4 @@
-<h1 align="center">NLW #10 - 2022 World Cupp</h1>
+<h1 align="center">NLW #10 - 2022 World Cup</h1>
 
 <p align="center">
 WEB project developed at Rocketseat's NLW #10 event.
