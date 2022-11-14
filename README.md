@@ -35,7 +35,7 @@ The World Cup calendar is a project that shows the matches of the 2022 World Cup
 
 ## 🔖 Layout
 
-You can view the layout of the project through <a href="https://www.figma.com/file/LIJGN9a8GoV2FAhCKeK3UJ/Calend%C3%A1rio-de-Jogos" target="_blank">THIS LINK</a>. You need an account on <a href="https://figma.com"target="_blank">Figma</a> to access it.
+You can view the layout of the project through <a href="https://www.figma.com/file/LIJGN9a8GoV2FAhCKeK3UJ/Calend%C3%A1rio-de-Jogos" target="_blank">THIS LINK</a>. You need an account on <a href="https://figma.com" target="_blank">Figma</a> to access it.
 
 ## :memo: License
 
